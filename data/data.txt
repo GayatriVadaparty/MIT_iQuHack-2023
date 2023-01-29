@@ -1,0 +1,2 @@
+Description of Data:
+We're given with images.npy and labels.npy 
